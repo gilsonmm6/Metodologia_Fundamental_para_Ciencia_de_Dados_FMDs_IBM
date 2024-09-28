@@ -1,7 +1,8 @@
 # Metodologia_Fundamental_para_Ciencia_de_Dados_FMDs_IBM
 
 São 10 etapas que formam um processo iterativo para o uso de dados para descobrir insights. Cada etapa desempenha um papel vital no contexto da metodologia geral.
-Definição do Problema: Preveja o preço das ações da Tesla para os próximos 30 dias com uma precisão mínima de 90%.
+
+- Definição do Problema: Preveja o preço das ações da Tesla para os próximos 30 dias com uma precisão mínima de 90%.
 Coleta de Dados: Temos o conjunto de dados TSLA.csv, que contém preços históricos de ações da Tesla.
 Preparação de Dados: Faremos a limpeza, transformação e normalização dos dados usando o Min-Max Scaler.
 Análise de Dados: Usaremos técnicas como análise de séries temporais e engenharia de recursos para extrair recursos relevantes dos dados.
