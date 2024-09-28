@@ -1,4 +1,4 @@
-# Metodologia_Fundamental_para_Ciencia_de_Dados_FMDs_IBM
+# Aplicando a Metodologia Fundamental da IBM para Ciência de Dados e LSTM para Prever Preços de Ações
 
 São 10 etapas que formam um processo iterativo para o uso de dados para descobrir insights. Cada etapa desempenha um papel vital no contexto da metodologia geral.
 
